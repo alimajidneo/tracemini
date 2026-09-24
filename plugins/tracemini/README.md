@@ -16,14 +16,14 @@ Sign in with your own TraceMini account, then start a new Codex task. This versi
 
 ## Install from GitHub
 
-While the upstream pull request is under review, you can instead install from the public fork branch:
+You can also install directly from the public GitHub branch:
 
 ```bash
 codex plugin marketplace add alimajidneo/tracemini --ref codex/tracemini-plugin
 codex plugin add tracemini@tracemini
 ```
 
-After the pull request is merged, new users can add `ahmedmurtazamalik/tracemini --ref main` instead. Start a new Codex task after installing so it loads the new skill and tools.
+Start a new Codex task after installing so it loads the new skill and tools.
 
 ## Sign in
 
